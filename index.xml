@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>同路科技</title>
-    <link>http://tonglu.me/index.xml</link>
+    <link>https://tongluren.github.io/index.xml</link>
     <description>Recent content on 同路科技</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <atom:link href="http://tonglu.me/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tongluren.github.io/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
